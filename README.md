@@ -1,5 +1,8 @@
 # Sage Business Cloud Accounting — Laravel
 
+[![CI](https://github.com/chrisjohnleah/sage-business-cloud-accounting-api-laravel/actions/workflows/ci.yml/badge.svg)](https://github.com/chrisjohnleah/sage-business-cloud-accounting-api-laravel/actions/workflows/ci.yml)
+[![PHP Version](https://img.shields.io/badge/php-%E2%89%A58.3-777bb4.svg)](https://php.net)
+[![Laravel](https://img.shields.io/badge/laravel-11%20%7C%2012%20%7C%2013-ff2d20.svg)](https://laravel.com)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 The Laravel bridge for [`chrisjohnleah/sage-business-cloud-accounting-api`](https://github.com/chrisjohnleah/sage-business-cloud-accounting-api). Adds a service provider, a `Sage` facade, an Eloquent token store, artisan commands, and a Blade connect button — so a Laravel app can talk to Sage with zero wiring.
