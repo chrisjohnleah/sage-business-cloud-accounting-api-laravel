@@ -22,7 +22,9 @@ jobs:
           tools: composer:v2
 
       - name: Install dependencies
-        run: composer update --prefer-dist --no-interaction --no-progress
+        run: |
+          composer require "illuminate/contracts:^12.0" "orchestra/testbench:^10.0" --no-interaction --no-update
+          composer update --prefer-dist --no-interaction --no-progress
 
       - name: Lint (Pint)
         run: vendor/bin/pint --test
