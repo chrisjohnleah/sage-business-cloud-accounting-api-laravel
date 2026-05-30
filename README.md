@@ -1,7 +1,8 @@
 # Sage Business Cloud Accounting — Laravel
 
 [![CI](https://github.com/chrisjohnleah/sage-business-cloud-accounting-api-laravel/actions/workflows/ci.yml/badge.svg)](https://github.com/chrisjohnleah/sage-business-cloud-accounting-api-laravel/actions/workflows/ci.yml)
-[![PHP Version](https://img.shields.io/badge/php-%E2%89%A58.3-777bb4.svg)](https://php.net)
+[![Packagist Version](https://img.shields.io/packagist/v/chrisjohnleah/sage-business-cloud-accounting-api-laravel.svg)](https://packagist.org/packages/chrisjohnleah/sage-business-cloud-accounting-api-laravel)
+[![Total Downloads](https://img.shields.io/packagist/dt/chrisjohnleah/sage-business-cloud-accounting-api-laravel.svg)](https://packagist.org/packages/chrisjohnleah/sage-business-cloud-accounting-api-laravel)
 [![Laravel](https://img.shields.io/badge/laravel-11%20%7C%2012%20%7C%2013-ff2d20.svg)](https://laravel.com)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 

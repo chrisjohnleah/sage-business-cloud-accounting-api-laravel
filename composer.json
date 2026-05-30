@@ -61,11 +61,5 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true,
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/chrisjohnleah/sage-business-cloud-accounting-api"
-        }
-    ]
+    "prefer-stable": true
 }
